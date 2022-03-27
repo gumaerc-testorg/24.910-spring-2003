@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2df4a5bf-9e75-eac1-d66b-de272733cb84
 resourcetype: Document
 title: Introduction
 uid: d2227e36-08dd-67eb-6494-c5570e595d81
