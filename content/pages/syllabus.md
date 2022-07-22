@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course logistics, meeting
+  times, and requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bacdf693-ef25-b8c5-9918-5da67810ed4e
 ---
