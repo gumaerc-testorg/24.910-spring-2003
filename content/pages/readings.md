@@ -15,7 +15,7 @@ The seminar reading and discussion is organized around two recent dissertations:
 
 Garrett, Edward. "Evidentiality and Assertion in Tibetan." UCLA PhD Dissertation. 2001.
 
-[Faller, Martina](http://staffprofiles.humanities.manchester.ac.uk/Profile.aspx?Id=Martina.T.Faller). "Semantics and Pragmatics of Evidentials in Cuzco Quechua." Stanford PhD Dissertation. 2002.
+{{% resource_link "3fd2fba5-c1b9-416c-9695-7e81eecc2f73" "Faller, Martina" %}}. "Semantics and Pragmatics of Evidentials in Cuzco Quechua." Stanford PhD Dissertation. 2002.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -90,7 +90,7 @@ Embedded Assertions
 
 Garrett, Chapter 5. Heycock on Embedded Root Phenomena
 
-[Heycock, Caroline](http://www.ling.ed.ac.uk/~heycock/). "[Case #035: Embedded Root Phenomena](http://www.ling.ed.ac.uk/~heycock/papers/case_035_erp.html)." To appear in [The Syntax Companion: An electronic encyclopaedia of case studies](http://en.wikipedia.org/wiki/Live_electronic_music). Edited by Henk van Riemsdijk and Martin Everaert. The LingComp foundation. (While we are exploring the occurrence of evidential markers in embedded clauses, it may be good to look at this survey article on embedded root phenomena)
+{{% resource_link "db0e9f29-8d9e-4492-94d5-f8c0fef72cdb" "Heycock, Caroline" %}}. "{{% resource_link "64438485-66e4-4ed0-8549-14212aef27e0" "Case #035: Embedded Root Phenomena" %}}." To appear in {{% resource_link "4e2b233a-8cee-4347-8fc7-bf60d5e891de" "The Syntax Companion: An electronic encyclopaedia of case studies" %}}. Edited by Henk van Riemsdijk and Martin Everaert. The LingComp foundation. (While we are exploring the occurrence of evidential markers in embedded clauses, it may be good to look at this survey article on embedded root phenomena)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -114,7 +114,7 @@ Last Class All Questions Answered
 
 ## Three Bibliographies on Evidentiality on the Web
 
-[Robert Binnick's Bibliography on Evidentials and Evidentiality](http://www.utsc.utoronto.ca/~binnick/old%20tense/evid.html), which is part of his larger [Project on the Annotated Bibliography of Contemporary Research on Tense, Aspect, Aktionsart, and Related Areas](http://www.utsc.utoronto.ca/~binnick/TENSE/modality.htm).
+{{% resource_link "f639f6f3-be39-4c40-b8d6-9b7d96e138d1" "Robert Binnick's Bibliography on Evidentials and Evidentiality" %}}, which is part of his larger {{% resource_link "6a971c5f-dd76-4767-9085-8ab1c767f4f4" "Project on the Annotated Bibliography of Contemporary Research on Tense, Aspect, Aktionsart, and Related Areas" %}}.
 
 Gail Brendel Viechnicki's Bibliography on Evidentiality and Epistemology.
 
@@ -122,7 +122,7 @@ Gail Brendel Viechnicki's Bibliography on Evidentiality and Epistemology.
 
 Garrett in his chapter 2 makes crucial reference to a paper by Roumyana Izvorski (now Pancheva):
 
-[Izvorski, Roumyana](https://www.ling.upenn.edu/~izvorski/home.html). "The Present Perfect as an Epistemic Modal." Edited by A. Lawson and E. Cho. *Proceedings from the Conference on Semantics and Linguistic Theory (SALT)*, VII. CLC Publications, Cornell University, 1997.
+{{% resource_link "d44e4dfd-4807-42d5-aae2-dc1c813fc9ec" "Izvorski, Roumyana" %}}. "The Present Perfect as an Epistemic Modal." Edited by A. Lawson and E. Cho. *Proceedings from the Conference on Semantics and Linguistic Theory (SALT)*, VII. CLC Publications, Cornell University, 1997.
 
 Some Questions on Garrett — Chapter 2:
 
