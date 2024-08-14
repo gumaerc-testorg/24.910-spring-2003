@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on performative sentences, epistemic modality, and connections
   between epistemic modality and evidentiality.
 file: /courses/24-910-topics-in-linguistics-theory-spring-2003/c8657a191da45c1f7437f23293f793cf_3_epistemicperformative.pdf
+file_size: 49929
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
