@@ -4,6 +4,7 @@ description: Lecture notes on the different kinds of evidential system, typologi
   analyses of cross-linguistic variation, and factors governing choice of evidential
   marker by a speaker.
 file: /courses/24-910-topics-in-linguistics-theory-spring-2003/a328218c4e51f7cc4370a5c544e94db3_2_evidentials.pdf
+file_size: 66203
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
